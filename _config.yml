@@ -1,31 +1,36 @@
-title: Derrick Wells – Independent Product Designer
+title: Ray (Ruiliang) Gao - Software Engineer
 logo:  # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+description: desc
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ruiliang-gao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Derrick Wells
-  image: '/assets/img/01.jpg'
-  job: Independent Product Designer
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
+  name: Ray (Ruiliang) Gao
+  image: '/assets/img/ray.png'
+  job: Software Engineer
+  bio: I am a senior software engineer at <a href="https://sra.samsung.com/research-area/mobile-platform-solutions/">MPS IMEX Lab, Samsung Research America</a>. I develop the rendering and composition components of XR graphics framework.
+  email: ruiliang.gao93@gmail.com
+  resume: '/assets/RGao_CV.pdf'
+  github: https://github.com/ruiliang-gao
+  linkedin:
+  scholar: https://scholar.google.com/citations?hl=en&user=j50ZFBEAAAAJ
+  last_update: July, 2024
 
 
 # Contact links
-contact:
-  - name: Twitter
-    link: https://twitter.com/
-  - name: Facebook
-    link: https://facebook.com/
-  - name: Instagram
-    link: https://instagram.com/
+# contact:
+#   - name: Twitter
+#     link: https://twitter.com/
+#   - name: Facebook
+#     link: https://facebook.com/
+#   - name: Instagram
+#     link: https://instagram.com/
 
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: ray-gao # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics

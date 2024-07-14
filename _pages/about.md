@@ -2,19 +2,13 @@
 layout: page
 title: About
 permalink: /about/
-image: '/assets/img/01.jpg'
+image: '/assets/img/travel.jpg'
 ---
+I got my PhD degree in <a href="https://www.cise.ufl.edu/">Computer Science at the University of Florida</a> in 2022, advised by <a href="https://www.cise.ufl.edu/~jorg/">Dr. Jorg Peters</a>. Before that, I received a BA in Computational Mathematics at the University of Science and Technology of China, advised by <a href="http://staff.ustc.edu.cn/~lgliu/">Dr. Ligang Liu</a>.
 
-Hi, my name is Derrick Wells. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies.
+I have been working on Computer Graphics related projects since my sophomore year. My research interests include Physical Simulation, Mixed Reality, Graphics Rendering and Composition, Geometry Modeling and Processing.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity.
+I am currently working as a Senior Software Engineer at <a href="https://sra.samsung.com/research-area/mobile-platform-solutions/">IMEX Lab at Samsung Research America</a>. I am developing OpenXR Graphics Framework components especially for rendering and composition, together with several proof-of-concept prototypes for innovative AR/VR products.
 
-***
-
-> Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
-
-***
-
-Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable products.
-
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable potentialities.
+Located in Sunnyvale, CA, I enjoy playing tennis, snowboarding and swimming in my leisure time.
+<!-- His researches and publications deal with the challenges of elastoplasticity modeling of soft tissue in surgical simulation. Recently he contributed to the development of TIPSlite, the first interactive surgical training platform that supports cellphone as controller. -->

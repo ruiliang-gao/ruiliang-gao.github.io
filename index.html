@@ -10,9 +10,27 @@ layout: default
       <h1 class="author__job">{{ site.author.job }}</h1>
       <p class="author__bio">{{ site.author.bio }}</p>
       <div class="author__more">
-        <a href="mailto:{{site.author.email}}?subject=Hello%20%F0%9F%91%8B" class="say-hello">Say hello</a>
+        <a href="mailto:{{site.author.email}}?subject=Hello%20%F0%9F%91%8B" class="say-hello">Email Me</a>
         <a href="{{site.baseurl}}/about/" class="know-more">Know More</a>
       </div>
+      <br />
+      <div class="contact">
+        <div class="contact__title">Links:
+          <div class="contact__link">
+            <a href="{{site.author.resume}}">Resume</a>
+          </div>
+          <div class="contact__link">
+            <a href="{{site.author.github}}">GitHub</a>
+          </div>
+          <div class="contact__link">
+            <a href="{{site.author.scholar}}">Google Scholar</a>
+          </div>
+          <div class="contact__link">
+            <a href="{{site.author.linkedin}}">LinkedIn</a>
+          </div>
+        </div>
+      </div>
+
     </div>
   </section>
   <!-- end author -->
@@ -35,7 +53,7 @@ layout: default
           <span class="article__date">Published <time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
         </div>
         <p class="article__excerpt">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 130 }}{% endif %}</p>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read the rest</a>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Learn more</a>
       </div>
     </div>
     {% endfor %}

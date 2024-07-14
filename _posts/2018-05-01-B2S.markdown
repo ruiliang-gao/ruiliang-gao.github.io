@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Blender2SOFA Hex Mesher"
+date: 2018-05-01
+image: /assets/img/hex_mesher.png
+demo: youtube
+demolink: https://drive.google.com/file/d/1s1l4pYdto9ueUtMIbq6ZqDJTxkLScA79/preview
+demotitle: Blender2SOFA demo
+---
+<p class="intro"><span class="dropcap">Blender2SOFA</span> is a Blender plugin-in that supprts geometry modeling and customization of physical, collision and visual models and export simulation-ready anatomies (simlets) for TIPS surgical simulator. Several hexahedral mesh generating algorithms such as sweeping, mapping have been implemented in Blender2SOFA. This short demo illustrates my newly added grid-based hexahedral mesher as well as the workflow of generating simlets for surgical simulation. 
+  <a href="https://bitbucket.org/surflab/blender2sofa/src/master/">code</a>
+  <a href="https://drive.google.com/file/d/1s1l4pYdto9ueUtMIbq6ZqDJTxkLScA79/view">video</a> </p>
+
+<p align="center">
+	<iframe width="640" height="360" src="{{page.demolink}}" title="{{page.title}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
