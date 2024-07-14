@@ -19,9 +19,7 @@ TIPSlite is to replace the complex haptic force feedback setup of standard TIPS,
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/uwlnJhhMKN4" title="TIPSlite usage and demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-
-<!-- <p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
-
+<!-- 
 # Heading 1
 
 ## Heading 2
@@ -71,6 +69,5 @@ Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus e
 | Paragraph   | Text        |
 | Header      | Title       |
 | Paragraph   | Text        |
-
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. -->
+-->
 

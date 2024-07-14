@@ -8,7 +8,8 @@ demolink: https://drive.google.com/file/d/1pJaWYeADHkF9uMqcdf84736Csi9JmBhK/prev
 demotitle: Plastic hexahedral FEM demo
 description: To better capture tissue plasticity for hexahedral meshes, this work compares to and extends the linear-corotational and hyperelastic FEMs in Simulation Open Framework Architecture (SOFA) to handle large plastic deformation on hexahedral meshes.
 ---
-<p class="intro">To better capture tissue plasticity for hexahedral meshes, this work compares to and extends the linear-corotational and hyperelastic FEMs in Simulation Open Framework Architecture (SOFA) to handle large plastic deformation on hexahedral meshes, with focus on surgical simulation. We Devises a simple plastic decomposition scheme that handles both rotational and stretching plasticity, while preserving the volume  <a href="https://bitbucket.org/surflab/sofa_tips/src/master/">code</a>
+<p class="intro">To better capture tissue plasticity for hexahedral meshes, this work compares to and extends the linear-corotational and hyperelastic FEMs in Simulation Open Framework Architecture (SOFA) to handle large plastic deformation on hexahedral meshes, with focus on surgical simulation. We Devises a simple plastic decomposition scheme that handles both rotational and stretching plasticity, while preserving the volume. <br />
+	<a href="https://bitbucket.org/surflab/sofa_tips/src/master/">code</a>
 	<a href="https://link.springer.com/chapter/10.1007/978-3-030-87202-1_55">paper</a> 
 	<a href="https://drive.google.com/file/d/1pJaWYeADHkF9uMqcdf84736Csi9JmBhK/preview">video</a> </p>
 

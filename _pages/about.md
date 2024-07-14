@@ -11,4 +11,3 @@ I have been working on Computer Graphics related projects since my sophomore yea
 I am currently working as a Senior Software Engineer at <a href="https://sra.samsung.com/research-area/mobile-platform-solutions/">IMEX Lab at Samsung Research America</a>. I am developing OpenXR Graphics Framework components especially for rendering and composition, together with several proof-of-concept prototypes for innovative AR/VR products.
 
 Located in Sunnyvale, CA, I enjoy playing tennis, snowboarding and swimming in my leisure time.
-<!-- His researches and publications deal with the challenges of elastoplasticity modeling of soft tissue in surgical simulation. Recently he contributed to the development of TIPSlite, the first interactive surgical training platform that supports cellphone as controller. -->
